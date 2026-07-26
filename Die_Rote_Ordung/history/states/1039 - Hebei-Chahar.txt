@@ -8,9 +8,7 @@ state = {
 	history = {
 
 		owner = RNG
-		add_core_of = MEN
-		add_core_of = CHI
-		add_core_of = PRC
+		add_core_of = RNG
 
 		buildings = {
 			infrastructure = 1 #was 2
@@ -26,11 +24,6 @@ state = {
 		
 		victory_points = {
 			6904 3 # Kalgan #was 4
-		}
-
-		1938.10.25 = {
-			owner = CHI
-			controller = MEN
 		}
 
 	}
