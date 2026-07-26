@@ -13,17 +13,12 @@ state={
 	history = {
 
 		owner = RNG
-		add_core_of = RNG
+		add_core_of = CHI
+		add_core_of = PRC
 
 		victory_points = {
 			4190 3 # Shijiazhuang
 		}
-
-		
-		buildings = {
-			infrastructure = 2
-		}
-
 	}
 
 	provinces={

@@ -9,9 +9,9 @@ state = {
 	history = {
 
 		owner = PRC
+		add_core_of = XSM
+		add_core_of = CHI
 		add_core_of = PRC
-		add_claim_by_MEN
-
 
 		buildings = {
 			infrastructure = 1
@@ -33,7 +33,6 @@ state = {
 		victory_points = {
 			5031 1 # Alxa Right Banner
 		}
-
 
 	}
 

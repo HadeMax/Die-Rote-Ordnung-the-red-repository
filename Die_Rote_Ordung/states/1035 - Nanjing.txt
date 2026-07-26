@@ -9,7 +9,8 @@ state = {
 
 	history = {
 		owner = RNG
-		add_core_of = RNG
+		add_core_of = CHI
+		add_core_of = PRC
 
 		buildings = {
 			infrastructure = 2	
@@ -26,6 +27,9 @@ state = {
 
 		victory_points = {
 			11913 20 # Nanjing
+		}
+		1938.10.25 = {
+			controller = JAP
 		}
 	}
 

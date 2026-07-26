@@ -12,7 +12,8 @@ state = {
 	history = {
 
 		owner = RNG
-		add_core_of = RNG
+		add_core_of = CHI
+		add_core_of = PRC
 
 
 		victory_points = {
@@ -28,7 +29,6 @@ state = {
 			industrial_complex = 1
 			air_base = 3
 		}
-
 	}
 
 	provinces = {
