@@ -43,11 +43,6 @@ state={
 		victory_points = {
 			12026 1 # Baoding
 		}
-
-		1938.10.25 = {
-			owner = CHI
-			controller = JAP
-		}
 	}
 
 	provinces={
