@@ -1,7 +1,7 @@
 state = {
-	id = 901
-	name = "STATE_901"
-	manpower = 166240
+	id = 902
+	name = "STATE_902"
+	manpower = 332479
 	state_category = pastoral
 
 	history = {
@@ -14,12 +14,16 @@ state = {
 			infrastructure = 1
 		}
 
-	}  
+		victory_points = {
+			1891 1 # Sokoto
+		}
 
-	provinces = {
-		4997 5028 8109 10820 
 	}
 
+	provinces = {
+		1891 1932 1969 2025 4938 4972 8021 
+	}
+	
 	buildings_max_level_factor = 1.000
 	local_supplies = 0.000
 }
